@@ -1,0 +1,51 @@
+{
+  "current_roles": [
+    {
+      "role": "UX Designer / PM",
+      "company": "Recruit",
+      "status": "Transitioning out (year-end 2026)",
+      "monthly_income": "40-45万円",
+      "weekly_hours": "4-5時間/日"
+    },
+    {
+      "role": "CEO",
+      "company": "tokoro/ERA",
+      "status": "Scaling up (independence planned after Recruit)",
+      "monthly_income_target": "200万円 profit/month by year-end 2026"
+    },
+    {
+      "role": "UX Designer",
+      "company": "匠技研（副業）",
+      "status": "Active",
+      "monthly_income": "40-50万円"
+    }
+  ],
+  "current_phase": "Transition & Growth（物件待機、Note発信拡大中）",
+  "core_values": [
+    "自由（選択できる状態）",
+    "精神的安定",
+    "評価されるものづくり"
+  ],
+  "2026_goals": {
+    "tokoro_era": {
+      "properties": "3 traditional hotels + 10 urban rentals",
+      "monthly_revenue_target": "3,000,000 JPY",
+      "monthly_profit_target": "2,000,000 JPY",
+      "biggest_challenge": "Property acquisition (waiting phase)"
+    },
+    "content": {
+      "publication": "Architecture of Life (Note)",
+      "target_frequency": "3 articles/week",
+      "current_pace": "1-2 articles/week"
+    },
+    "independence": {
+      "timeline": "Study abroad after Recruit → 6 months to 1 year overseas",
+      "base_income": "tokoro/ERA + potential art business"
+    }
+  },
+  "personality": {
+    "mbti": "ENFJ（主人公型）",
+    "key_traits": "High action, reflective, needs rest,精神的に繊細"
+  },
+  "last_updated": "2026-02-04"
+}

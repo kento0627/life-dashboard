@@ -1,0 +1,24 @@
+# Daily logs (personal, not committed)
+life-timeline/daily-logs/*.md
+!life-timeline/daily-logs/.gitkeep
+
+# Emerging projects in progress
+projects/emerging-projects/*
+!projects/emerging-projects/.gitkeep
+
+# Agent memories
+.claude/skills/agent-memory/memories/
+
+# OS & Editor
+.DS_Store
+.vscode/
+*.swp
+*.swo
+*~
+
+# Dependencies (if any)
+node_modules/
+__pycache__/
+
+# Temp files
+.tmp/
