@@ -1,12 +1,12 @@
 {
-  "date": "2026-02-04",
-  "day_of_week": "Wednesday",
+  "date": "2026-02-06",
+  "day_of_week": "Thursday",
   "energy_level": 6,
-  "comment": "Slightly restless - too much stopped activity?",
+  "comment": "昨日の疲労残り。睡眠7h（通常8.5-9h必要）で体重い。早起き・英語時間確保が課題。",
   "roles_active_today": [
-    "PM at Recruit",
-    "CEO (tokoro/ERA review)"
+    "UX Designer at Recruit",
+    "CEO (tokoro/ERA)"
   ],
-  "current_focus": "Note article execution + tokoro property search",
+  "current_focus": "Recruit新規案件継続 + Claude Code新機能調査",
   "next_major_deadline": "2026-03-01（市原ホテルオープン）"
 }
