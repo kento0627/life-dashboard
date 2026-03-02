@@ -9,6 +9,10 @@ projects/emerging-projects/*
 # Agent memories
 .claude/skills/agent-memory/memories/
 
+# OpenClaw memories (daily logs, personal)
+memory/
+MEMORY.md
+
 # OS & Editor
 .DS_Store
 .vscode/
@@ -22,3 +26,8 @@ __pycache__/
 
 # Temp files
 .tmp/
+
+# Local settings (contains tokens, personal config)
+.openclaw/
+.claude/settings.local.json
+.claude/worktrees/
